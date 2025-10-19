@@ -8,7 +8,7 @@ st.write('**Web developper**')
 col1,col2=st.columns([0.3,0.7],gap='small',vertical_alignment='center')
 with col1:
     #image=Image.open('.\images\test.jpeg') # For Linux
-   st.image("images/Hedir.jpeg", width=200)  
+   st.image("Images/Hedir.jpeg", width=200)  
 with col2:
     st.write('**Hedir OUARDI**')
     st.markdown( """ <div style="text-align: justify;">
@@ -19,7 +19,7 @@ with col2:
 st.write('**Project manager**')
 col1,col2=st.columns([0.3,0.7],gap='small',vertical_alignment='center')
 with col1:
-    st.image("images/Anna.jpeg", width=200)
+    st.image("Images/Anna.jpeg", width=200)
 with col2:
     st.write('**Anna SMIRNOVA**')
     st.markdown( """ <div style="text-align: justify;">
@@ -30,7 +30,7 @@ st.write('**Project supervisor**')
 col1,col2=st.columns([0.3,0.7],gap='small',vertical_alignment='center')
 with col1:
     #image=Image.open('.\images\test.jpeg') #for linux
-    st.image("images/Koly.jpg", width=200)    
+    st.image("Images/Koly.jpg", width=200)    
 with col2:
     st.write('**Tanzila Akter KOLY**')
     st.markdown( """ <div style="text-align: justify;">
