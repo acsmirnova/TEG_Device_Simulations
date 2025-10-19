@@ -62,27 +62,6 @@ streamlit run app.py
 - Real-time parameter adjustment
 - Comprehensive documentation
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a Pull Request
-
-## License
-
-[Add appropriate license information]
-
-## Contact
-
-[Add contact information]
-
-## This is the repository that will gather the work of group 2
-
-> The mentor for your group is: **Dr. José ANICETO** -> @jose
-
-Organize meetings with your mentor on a very regular basis as it will be part of the evaluation of the project!
 
 ### Team members of group 2
 
@@ -92,29 +71,6 @@ Organize meetings with your mentor on a very regular basis as it will be part of
 | Hedir         | OUARDI     | hedir.ouardi@grenoble-inp.org | M1 @ Grenoble  |
 | Anna          | SMIRNOVA   | smirnova4273@gmail.com        | M1 @ Darmstadt |
 
-You may also check the team members of your group using the left panel: `Manage` -> `Members` and identify your teammates (members of the `Group 2`).
-
-### The functional material your group has to consider for this project is
-
-> PbTe
-
-## Login credentials for the `COMSOL` server
-
-- Login: gr2_2024
-
-- Password: QLfD7Wt0
-
-`SSH` connection to the `COMSOL` server using a terminal (like in VSCode):
-
-```bash
-> ssh -Y gr2_2024@srv-lab.flavio.be
-```
-
-Then, run `COMSOL` on the remote terminal:
-
-```bash
-> comsol
-```
 
 ## Troubleshooting & Common Errors
 
