@@ -1,6 +1,6 @@
 # Thermoelectric Generator (TEG) Analysis Project
 
-This project analyzes and optimizes thermoelectric energy harvesting devices through theoretical calculations, COMSOL simulations, and machine learning analysis.
+This project analyzes and optimizes thermoelectric energy harvesting devices through theoretical calculations, COMSOL simulations, and machine learning analysis. See an interactive presentation of the results on the streamlit application: https://tegdevicesimulations.streamlit.app/ 
 
 ## Project Overview
 
