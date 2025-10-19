@@ -74,18 +74,18 @@ st.markdown("""
 col1, col2, col3 = st.columns(3)
 with col1:
     st.markdown("### 📊 Analysis")
-    st.markdown("[View COMSOL Simulations](pages/6_COMSOL.py)")
-    st.markdown("[View Neural Network Analysis](pages/8_Neural_Network.py)")
+    st.markdown("[View COMSOL Simulations](COMSOL)")
+    st.markdown("[View Neural Network Analysis](Neural_Network)")
 
 with col2:
     st.markdown("### 🔬 Materials")
-    st.markdown("[PbTe Material Analysis](pages/3_PbTe_Material.py)")
-    st.markdown("[TEG Module Design](pages/4_TEG%20Module.py)")
+    st.markdown("[PbTe Material Analysis](PbTe_Material)")
+    st.markdown("[TEG Module Design](TEG_Module)")
 
 with col3:
     st.markdown("### 📈 Results")
-    st.markdown("[Maximum Power Analysis](pages/5_Maximum_Power_Efficient_Module.py)")
-    st.markdown("[Simulation Results](pages/7_5000_COMSOL_Simulations.py)")
+    st.markdown("[Maximum Power Analysis](Maximum_Power_Efficient_Module)")
+    st.markdown("[Simulation Results](5000_COMSOL_Simulations)")
 
 # Footer
 st.markdown("---")
