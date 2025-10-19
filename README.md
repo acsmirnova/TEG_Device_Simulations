@@ -14,8 +14,8 @@ The project consists of several key components:
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
-cd repo_gr2_2024
+git clone https://github.com/acsmirnova/TEG_Device_Simulations
+cd TEG_Device_Simulations
 ```
 
 2. Create a virtual environment (recommended):
