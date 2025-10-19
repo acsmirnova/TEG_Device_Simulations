@@ -38,7 +38,7 @@ st.markdown("""
     """, unsafe_allow_html=True)
 
 # Sidebar navigation
-st.sidebar.image("images/Sans-titre-01.webp", width=200)
+st.sidebar.image("Images/Sans-titre-01.webp", width=200)
 st.sidebar.title("Navigation")
 
 # Main sections
