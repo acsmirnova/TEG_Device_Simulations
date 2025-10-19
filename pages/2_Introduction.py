@@ -21,10 +21,10 @@ st.markdown(""" \n """)
 col1, col2 = st.columns(2)
 
 with col1:
-    st.image("images/XCPh9Vp.jpg", caption="Thermoelectric Generator, https://www.sciencedirect.com/science/article/pii/S2666523923000144", width=300)
+    st.image("Images/XCPh9Vp.jpg", caption="Thermoelectric Generator, https://www.sciencedirect.com/science/article/pii/S2666523923000144", width=300)
 
 with col2:
-    st.image("images/1-s2.0-S0921510723008644-ga1_lrg.jpg", caption="TEG Couple Module, https://www.sciencedirect.com/science/article/abs/pii/S0921510723008644", width=350)
+    st.image("Images/1-s2.0-S0921510723008644-ga1_lrg.jpg", caption="TEG Couple Module, https://www.sciencedirect.com/science/article/abs/pii/S0921510723008644", width=350)
 
 st.subheader('Types of Thermoelectric Material')
 st.markdown("""
